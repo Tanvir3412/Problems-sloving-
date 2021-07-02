@@ -16,8 +16,7 @@ public class MyQueue {
         myQueue.remove();
         myQueue.remove();
 
-        // queue whatever you put first it will come out first
-        // first in first out
+        
 
 
         System.out.println(myQueue);
